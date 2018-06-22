@@ -9,6 +9,8 @@
     "email": "sindresorhus@gmail.com",
     "url": "sindresorhus.com"
   },
+  "main": "./index.js",
+  "types": "./index.d.ts",
   "engines": {
     "node": ">=6"
   },
