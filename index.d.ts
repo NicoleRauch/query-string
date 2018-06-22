@@ -6,4 +6,4 @@ export function parse(input : string, options : object) : object;
 
 export function stringify(obj : object, options : object) : string;
 
-export function parseUrl(input : string, options : object) : object;
+export function parseUrl(input : string, options? : object) : object;
